@@ -1,6 +1,7 @@
 # GYA/致链公链
 
-[![invest our project at http://www.zenpe.com.cn/#!/gybCn](http://www.zenpe.com.cn/#!/gybCn)](http://www.zenpe.com.cn/#!/gybCn)
+# Click here to visit 
+(http://www.zenpe.com.cn/#!/gybCn)
 
 This is the Ethereum compatible [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 which implements the [Generic JSON RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC) spec. It's available on npm as a node module, for Bower and component as embeddable scripts, and as a meteor.js package.
