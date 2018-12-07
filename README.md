@@ -18,3 +18,9 @@ https://github.com/ZENPE-HOLDING/GYB_Foundation
 
 ## Email our architect（main designer of the public chain）
 camilodchan@gmail.com
+
+
+#How to invest our project? here you go GYB/USDT 
+http://www.bihuex.com/trade_page/trade.html?0.806567484876954#GYB_USDT 
+
+##Our Gaming public chain will be one of the most popular one over the world.
