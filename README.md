@@ -17,3 +17,4 @@ https://github.com/ZENPE-HOLDING/GYB_Foundation
 
 
 ## Email our architect（main designer of the public chain）
+camilodchan@gmail.com
