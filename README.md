@@ -1,6 +1,6 @@
 # GYA/致链公链
 We are really excited that our public chain is now built! 
-And pls visit our explorer in blockchian system at 
+And pls visit our explorer in blockchian system at       
 http://browse.zenpe-holding.com/accounts
 
 
