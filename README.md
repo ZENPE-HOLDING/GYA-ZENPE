@@ -1,5 +1,5 @@
 # GYA/致链公链
-## http://www.zenpe.com.cn/#!/gybCn
+## http://www.zenpe.com.en
 
 ## Table of Contents
 
