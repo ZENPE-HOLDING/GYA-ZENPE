@@ -6,8 +6,14 @@ http://browse.zenpe-holding.com/accounts
 
 ## Home page at http://www.zenpe.com.cn
 
-### before using this repository you have to complie below one 
+
+
+
+### Before using this repository you have to complie below one 
 https://github.com/ZENPE-HOLDING/GYB_Foundation 
+
+
+
 
 
 ## Email our architect（main designer of the public chain）
