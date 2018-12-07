@@ -1,6 +1,6 @@
 # GYA/致链公链
 
-# Click here to visit 
+# [Click here to visit ]
 (http://www.zenpe.com.cn/#!/gybCn)
 
 This is the Ethereum compatible [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
