@@ -1,0 +1,12 @@
+/**
+ *  @file
+ *  @copyright defined in gya/LICENSE.txt
+ */
+
+#include <gyaio/chain/genesis_state.hpp>
+
+namespace gyaio { namespace chain {
+
+const string genesis_state::gyaio_root_key = "${GYAIO_ROOT_KEY}";
+
+} } // namespace gyaio::chain
