@@ -8,3 +8,6 @@ http://browse.zenpe-holding.com/accounts
 
 ### before using this repository you have to complie below one 
 https://github.com/ZENPE-HOLDING/GYB_Foundation 
+
+
+# The email address to connect with our architect（main designer of the public chain）
