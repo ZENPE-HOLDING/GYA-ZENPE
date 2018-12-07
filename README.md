@@ -10,4 +10,4 @@ http://browse.zenpe-holding.com/accounts
 https://github.com/ZENPE-HOLDING/GYB_Foundation 
 
 
-## The email address to connect with our architect（main designer of the public chain）
+## Email our architect（main designer of the public chain）
