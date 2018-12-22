@@ -1,0 +1,6 @@
+add_subdirectory( nodgya )
+add_subdirectory( clgya )
+add_subdirectory( kgyad )
+add_subdirectory( gyaio-launcher )
+add_subdirectory( gyaio-applesedemo )
+add_subdirectory( gyaio-abigen )
