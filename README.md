@@ -3,6 +3,8 @@
 We are really excited that our public chain project is now built! 
 And please visit our explorer in blockchian system at       
 http://browse.zenpe-holding.com/accounts
+Apache version at 
+http://testbrowse.zenpe-holding.com/index
 
 
 ## Home page at
