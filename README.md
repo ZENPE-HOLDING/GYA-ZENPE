@@ -8,11 +8,6 @@ Alpha version at
 http://testbrowse.zenpe-holding.com
 
 
-## Home page at
-www.zenpe-holding.com
-
-
-
 
 ### Before using this repository you have to complie below one 
 https://github.com/ZENPE-HOLDING/GYB_Foundation 
