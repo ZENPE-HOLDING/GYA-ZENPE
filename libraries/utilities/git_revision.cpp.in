@@ -1,0 +1,14 @@
+#include <stdint.h>
+#include <gya/utilities/git_revision.hpp>
+
+#define GYA_GIT_REVISION_SHA "@GYA_GIT_REVISION_SHA@"
+#define GYA_GIT_REVISION_UNIX_TIMESTAMP @GYA_GIT_REVISION_UNIX_TIMESTAMP@
+#define GYA_GIT_REVISION_DESCRIPTION "@GYA_GIT_REVISION_DESCRIPTION@"
+
+namespace gyaio { namespace utilities {
+
+const char* const git_revision_sha = GYA_GIT_REVISION_SHA;
+const uint32_t git_revision_unix_timestamp = GYA_GIT_REVISION_UNIX_TIMESTAMP;
+const char* const git_revision_description = GYA_GIT_REVISION_DESCRIPTION;
+
+} } // end namespace gyaio::utilities
