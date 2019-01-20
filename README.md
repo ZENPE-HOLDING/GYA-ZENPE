@@ -1,7 +1,7 @@
 # GYA/致链公链
 
 We are really excited that our public chain project is now built! 
-And please visit our explorer in blockchian system at       
+And please visit our explorer in blockchain system at       
 https://www.zenpe-holding.com
 
 Alpha version at 
